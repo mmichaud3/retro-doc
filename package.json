@@ -6,6 +6,7 @@
   "description": "Retro Doc VS Code Theme",
   "version": "0.0.1",
   "homepage": "https://github.com/mmichaud3/retro-doc#readme",
+  "icon": "RetroNew.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/mmichaud3/retro-doc"
