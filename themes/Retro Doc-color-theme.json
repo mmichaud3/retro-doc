@@ -425,8 +425,7 @@
 
     "titleBar.activeForeground": "#FF0099",
     "menu.selectionBackground": "#c03cfd",
-    "terminal.foreground": "#66ffff",
-    "welcomePage.progress.foreground": "#FF0099"
+    "terminal.foreground": "#66ffff"
   },
 
   "name": "Retro Doc"
