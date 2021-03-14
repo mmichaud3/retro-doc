@@ -1,21 +1,28 @@
 {
-    "name": "retro-doc",
-    "displayName": "Retro Doc",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Retro Doc",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Retro Doc-color-theme.json"
-            }
-        ]
-    }
+  "name": "retro-doc",
+  "displayName": "Retro Doc",
+  "publisher": "MichaelMichaud",
+  "license": "MIT",
+  "description": "Retro Doc VS Code Theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mmichaud3/retro-doc#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmichaud3/retro-doc"
+  },
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro Doc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retro Doc-color-theme.json"
+      }
+    ]
+  }
 }
