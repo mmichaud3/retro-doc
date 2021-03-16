@@ -394,12 +394,14 @@
     "editor.foreground": "#33FFCD",
     "editorWhitespace.foreground": "#3B3A32",
     "editor.lineHighlightBackground": "#3D3D3D",
-    "editor.selectionBackground": "#ff009927",
+    "editor.selectionBackground": "#ff00994b",
+    "editor.selectionHighlightBackground": "#ff00994b",
 
-    "editor.wordHighlightBackground": "#ff009927",
+    "editor.wordHighlightBackground": "#ff00994b",
 
-    "editor.findMatchBackground": "#ff009933",
-    "editor.findMatchHighlightBackground": "#ff009933",
+    "editor.findMatchBackground": "#ff00994b",
+    "editor.findMatchHighlightBackground": "#ff00994b",
+    "searchEditor.findMatchBackground": "#ff00994b",
 
     "activityBar.background": "#08131a",
     "activityBar.border": "#FF0099",
@@ -419,6 +421,7 @@
     // "sideBar.border": "#FF0099",
     "sideBarTitle.foreground": "#FF0099",
     "sideBarSectionHeader.foreground": "#c03cfd",
+    // "dropdown.background": "#ff00994b",
 
     "editorGroup.border": "#FF0099",
     "tab.activeForeground": "#FF0099",
